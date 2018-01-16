@@ -1,1 +1,2 @@
-django
+Django>=2.0
+psycopg2
